@@ -1,0 +1,27 @@
+.h1-count{
+    font-size:7rem;
+
+}
+.box{
+    border: 3px blue solid;
+    max-width: 350px;
+    min-width: 300px;
+    margin-top: 150px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 13px;
+    font-weight: bold;
+    border: 0px white solid;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.btn:hover{
+    background-color: white;
+    color: blue;
+}
+#counter{
+    font-size: xx-large;
+    padding: 15px;
+}
